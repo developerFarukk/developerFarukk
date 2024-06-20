@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm OMAR FARUK</h1>
 <h3 align="center">A MERN stack developer in Bangladesh.</h3>
 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Medicare](https://medicare-2059.web.app)
