@@ -1,3 +1,4 @@
+![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20Hub%20Banner.png)
 <h1 align="center">Hi 👋, I'm OMAR FARUK</h1>
 <h3 align="center">A MERN stack developer in Bangladesh.</h3>
 
