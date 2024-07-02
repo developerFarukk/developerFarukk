@@ -71,7 +71,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <br>
 
-## ⚡ Commit Count
+## ⚡  Language Used
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact" alt="faruk2059" /></p>
 
