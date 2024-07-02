@@ -1,6 +1,11 @@
 ![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20Hub%20Banner.png)
-<h1 align="center">Hi 👋, I'm OMAR FARUK</h1>
-<h3 align="center">A MERN stack developer in Bangladesh.</h3>
+<h1>👨‍💻 About Me
+  <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
+<h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
+to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
+<h1>
+
+
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
 
