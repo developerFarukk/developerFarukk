@@ -62,9 +62,16 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 </p>
 <br>
 
+## 👀 Commit Count
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact" alt="faruk2059" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en" alt="faruk2059" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en" alt="faruk2059" /></p>
+<br>
+
+## ⚡ Commit Count
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact" alt="faruk2059" /></p>
+
+
 
 
