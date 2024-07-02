@@ -1,12 +1,11 @@
 ![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20Hub%20Banner.png)
-<h1>👨‍💻 About Me
+
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
 to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
-<h1>
+<br>
 
-
-
+## 👨‍💻 Overview
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -17,15 +16,16 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 - 👨‍💻 All of my projects are available at [http://www.developerfaruk.com](http://www.developerfaruk.com)
 
-- 💬 Ask me about **React, javaScript, express, MongoDB, Node, Next.js, TypeScript**
+- 💬 Ask me about **React, javaScript, express, MongoDB, Node, Next.js**
 
-- 📫 How to reach me **farukk2059@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C4KnnJFzZxTOdWpK28dpPBU1pPBgetka/view?usp=sharing](https://drive.google.com/file/d/1C4KnnJFzZxTOdWpK28dpPBU1pPBgetka/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C4KnnJFzZxTOdWpK28dpPBU1pPBgetka/view?usp=sharing](https://drive.google.com/file/d/1f712sf-H0d3PENlWP0m9u_I6SzdE0UhL/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny !!!!!!!!!!!!**
 
-<h3 align="left">Connect with me:</h3>
+##  Daily Streak
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk2059&" alt="faruk2059" /></p>
+
+<h1 align="left">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/omar-faruk7920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-faruk7920" height="30" width="40" /></a>
 <a href="https://fb.com/md omar faruk rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md omar faruk rana" height="30" width="40" /></a>
@@ -41,4 +41,4 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en" alt="faruk2059" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk2059&" alt="faruk2059" /></p>
+
