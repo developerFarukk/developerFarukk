@@ -3,6 +3,7 @@
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
 to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
+
 <br>
 
 ## 👨‍💻 Overview
@@ -39,6 +40,8 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 <a href="https://www.youtube.com/c/travelexpart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="travelexpart" height="72" width="72" /></a>
 <a href="https://discord.gg/farukk2059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farukk2059" height="72" width="72" /></a>
 </p>
+
+<br>
 
 ## :computer: Technologies that I know
 
