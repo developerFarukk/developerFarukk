@@ -1,4 +1,4 @@
-![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20Hub%20Banner.png)
+![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20hub%20Banner%20Update.gif?raw=true)
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
