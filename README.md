@@ -39,6 +39,13 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 <a href="https://instagram.com/omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar faruk" height="72" width="72" /></a>
 <a href="https://www.youtube.com/c/travelexpart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="travelexpart" height="72" width="72" /></a>
 <a href="https://discord.gg/farukk2059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farukk2059" height="72" width="72" /></a>
+
+  <div align="left">
+  <a href="www.linkedin.com/in/developerfaruk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+</div>
+
 </p>
 
 <br>
