@@ -34,17 +34,17 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <p align="center">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!</p>
 <p align="center">
-<a href="www.linkedin.com/in/developerfaruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-faruk7920" height="72" width="72"  /></a>
+<a href="https://linkedin.com/in/developerfaruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-faruk7920" height="72" width="72"  /></a>
 <a href="https://fb.com/md omar faruk rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md omar faruk rana" height="72" width="72" /></a>
 <a href="https://instagram.com/omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar faruk" height="72" width="72" /></a>
 <a href="https://www.youtube.com/c/travelexpart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="travelexpart" height="72" width="72" /></a>
 <a href="https://discord.gg/farukk2059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farukk2059" height="72" width="72" /></a>
 
   <div align="left">
-  <a href="www.linkedin.com/in/developerfaruk" target="_blank">
+  <a href="https://linkedin.com/in/developerfaruk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/developerfaruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerfaruk" height="30" width="40" /></a>
+  
 
 
 </div>
