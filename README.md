@@ -155,6 +155,15 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</a>
+<a href="https://jwt.io" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</a>
+<a href="https://www.canva.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</a>
 </p>
 <br>
 
