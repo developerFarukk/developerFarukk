@@ -25,8 +25,8 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <br>
 
-##  Daily Streak
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk2059&" alt="faruk2059" /></p>
+##  🔥 Daily Streak
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk2059&theme=black-ice" alt="faruk2059" /></p>
 
 <br>
 
@@ -71,7 +71,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <br>
 
-## :computer: Technologies that I know
+## ⚙️ Technologies that I know
 
 <br>
 <p align="center">
@@ -159,13 +159,21 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 ## 👀 Commit Count
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en" alt="faruk2059" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en&theme=dark" alt="faruk2059" /></p>
 
 <br>
 
-## ⚡  Language Used
+## 🈸 Language Used
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact" alt="faruk2059" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact&theme=dark" alt="faruk2059" /></p>
+
+## 🏆 Github Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=faruk2059&theme=onedark&column=8" alt="haruntahid" />
+  </a>
+</p>
 
 
 
