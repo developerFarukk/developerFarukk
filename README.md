@@ -54,9 +54,19 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
   <a href="https://www.instagram.com/developer_faruk" target="blank">
     <img height="32" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <br>
   <a href="mailto:web.omarfaruk.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="web.omarfaruk.dev@gmail.com"  />
   </a>
+  <a href="https://www.snapchat.com/add/developerfaruk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=FFFC00&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="www.snapchat.com/add/developerfaruk" />
+</a>
+<a href="https://t.me/developerfaruk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="t.me/developerfaruk" />
+</a>
+<a href="https://www.threads.net/@developer_faruk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="threads.net/@developerfaruk" />
+</a>
 
 </div>
 
