@@ -39,14 +39,8 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
   <a href="https://linkedin.com/in/developerfaruk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="www.linkedin.com/in/developerfaruk"  />
   </a>
-  <a href="https://x.com/developerfarukk" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="developerfaruk.com"  />
-  </a>
   <a href="https://fb.com/md omar faruk rana" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="https://fb.com/md omar faruk rana"  />
-  </a>
-  <a href="https://discord.gg/developerfaruk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="https://discord.gg/developerfaruk"  />
   </a>
   <a href="https://wa.me/8801917540405" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
@@ -54,20 +48,25 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
   <a href="https://www.instagram.com/developer_faruk" target="blank">
     <img height="32" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <br>
+  <a href="https://www.threads.net/@developer_faruk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="threads.net/@developerfaruk" />
+</a>
   <a href="mailto:web.omarfaruk.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="web.omarfaruk.dev@gmail.com"  />
+  </a>
+  <br>
+  <a href="https://discord.gg/developerfaruk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="https://discord.gg/developerfaruk"  />
   </a>
   <a href="https://www.snapchat.com/add/developerfaruk" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=FFFC00&logoColor=black&labelColor=&style=for-the-badge" height="32" alt="www.snapchat.com/add/developerfaruk" />
 </a>
+<a href="https://x.com/developerfarukk" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="developerfaruk.com"  />
+  </a>
 <a href="https://t.me/developerfaruk" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="t.me/developerfaruk" />
 </a>
-<a href="https://www.threads.net/@developer_faruk" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="threads.net/@developerfaruk" />
-</a>
-
 </div>
 
 <br>
@@ -76,21 +75,85 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <br>
 <p align="center">
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/HTML.png?raw=true" alt="html" width="72" height="72" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/css.png?raw=true" alt="html" width="72" height="72" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/JavaScript.png?raw=true" alt="javascript" width="72" height="72" /> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/tailwind.png?raw=true" alt="tailwind" width="72" height="72"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/Bootsrap.png?raw=true" alt="bootstrap" width="72" height="72" /> </a>
-<br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/react.png?raw=true" alt="react" width="72" height="72"/> </a>
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/node.png?raw=true" alt="nodejs" width="72" height="72"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/express.png?raw=true" alt="express" width="72" height="72"/> </a>
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/mongo.png?raw=true" alt="mongodb" width="72" height="72"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/FARUK2059/FARUK2059/blob/main/Icons/firebase.png?raw=true" alt="firebase" width="72" height="72"/> </a>
-<br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="72" height="72"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="72" height="72"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="72" height="72"/> </a> 
+<a href="https://www.w3schools.com/html/" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"  /> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </a>
+<a href="https://daisyui.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" /> </a>
+<a href="https://mui.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://github.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</a>
+<a href="https://reactrouter.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+</a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+<a href="https://axios-http.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</a>
+<a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
+</a>
+  <a href="https://www.json.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</a>
+<a href="https://zod.dev" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Zod-EB7D6A?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</a>
+<a href="https://wordpress.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</a>
+<a href="https://eslint.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+</a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</a>
+<a href="https://pixso.design" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Pixso-FFAA00?style=for-the-badge&logo=pixso&logoColor=black" alt="Pixso" />
+</a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</a>
 </p>
 <br>
 
