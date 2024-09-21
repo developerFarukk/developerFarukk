@@ -167,7 +167,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact&theme=dark" alt="faruk2059" /></p>
 
-## 🏆 Github Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
