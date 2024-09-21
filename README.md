@@ -1,5 +1,5 @@
 ![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20hub%20Banner%20Update.gif?raw=true)
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=FARUK2059&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<span align="right"> <img width="154" src="https://komarev.com/ghpvc/?username=FARUK2059&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://developerfaruk.vercel.app)](https://developerfaruk.vercel.app) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)](https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
