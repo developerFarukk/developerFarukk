@@ -1,4 +1,5 @@
 ![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20hub%20Banner%20Update.gif?raw=true)
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=FARUK2059&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
