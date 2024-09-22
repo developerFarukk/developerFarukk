@@ -164,6 +164,9 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 <a href="https://www.canva.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</a>
 </p>
 <br>
 
