@@ -1,5 +1,5 @@
 ![logo](https://github.com/FARUK2059/FARUK2059/blob/main/Git%20hub%20Banner%20Update.gif?raw=true)
-<span align="right"> <img width="154" src="https://komarev.com/ghpvc/?username=FARUK2059&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://developerfaruk.vercel.app)](https://developerfaruk.vercel.app) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)](https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)
+<span align="right"> <img width="154" src="https://komarev.com/ghpvc/?username=developerFarukk&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://developerfaruk.vercel.app)](https://developerfaruk.vercel.app) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)](https://docs.google.com/document/d/1mY4NH6fd96otXSWL_iS8iK6PjEKXYj4l/edit?usp=sharing&ouid=101745219377450870245&rtpof=true&sd=true)
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
 <h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
@@ -27,7 +27,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 <br>
 
 ##  🔥 Daily Streak
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faruk2059&theme=black-ice" alt="faruk2059" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerFarukk&theme=black-ice" alt="developerFaruk" /></p>
 
 <br>
 
@@ -172,19 +172,19 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 ## 👀 Commit Count
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faruk2059&show_icons=true&locale=en&theme=dark" alt="faruk2059" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerFarukk&show_icons=true&locale=en&theme=dark" alt="developerfaruk" /></p>
 
 <br>
 
 ## 🈸 Language Used
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk2059&show_icons=true&locale=en&layout=compact&theme=dark" alt="faruk2059" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerFarukk&show_icons=true&locale=en&layout=compact&theme=dark" alt="developerfaruk" /></p>
 
 ## 🏆 GitHub Trophy
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=faruk2059&theme=onedark&column=8" alt="haruntahid" />
+    <img src="https://github-profile-trophy.vercel.app/?username=developerFarukk&theme=onedark&column=8" alt="developerfaruk" />
   </a>
 </p>
 
