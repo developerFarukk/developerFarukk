@@ -40,7 +40,7 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
   <a href="https://linkedin.com/in/developerfaruk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="www.linkedin.com/in/developerfaruk"  />
   </a>
-  <a href="https://fb.com/md omar faruk rana" target="_blank">
+  <a href="https://web.facebook.com/developerfarukk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="https://fb.com/md omar faruk rana"  />
   </a>
   <a href="https://wa.me/8801917540405" target="_blank">
@@ -65,9 +65,14 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 <a href="https://x.com/developerfarukk" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="developerfaruk.com"  />
   </a>
+<a href="https://www.youtube.com/@developerfaruk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="YouTube Channel" />
+</a>
 <a href="https://t.me/developerfaruk" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="t.me/developerfaruk" />
 </a>
+
+
 </div>
 
 <br>
