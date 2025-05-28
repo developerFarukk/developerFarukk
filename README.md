@@ -14,11 +14,11 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 
 - 🔭 I’m currently working on [My Portfolio](https://developerfaruk.vercel.app)
 
-- 🌱 I’m currently learning **Complet web development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [http://www.developerfaruk.com](http://www.developerfaruk.com)
 
-- 💬 Ask me about **React, javaScript, express, MongoDB, Node, Next.js**
+- 💬 Ask me about **React, javaScript, TypeScript, express, MongoDB, PostgresSQL, Node, Prisma, Next.js**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C4KnnJFzZxTOdWpK28dpPBU1pPBgetka/view?usp=sharing](https://drive.google.com/file/d/1f712sf-H0d3PENlWP0m9u_I6SzdE0UhL/view?usp=sharing)
 
