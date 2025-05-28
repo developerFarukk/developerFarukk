@@ -2,25 +2,23 @@
 <span align="right"> <img width="154" src="https://komarev.com/ghpvc/?username=developerFarukk&label=Profile%20views&color=0e75b6&style=flat" alt="developerfaruk" /> </span> [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://www.developerfaruk.com)](https://www.developerfaruk.com) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/17JW4f5XOPqOjhVqhW5dcJSRkOwx3QwH-/view?usp=sharing)](https://drive.google.com/file/d/17JW4f5XOPqOjhVqhW5dcJSRkOwx3QwH-/view?usp=sharing)
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
-<h4 align="center">I am developing a full-featured website using the MERN stack (MongoDB, Express.js, React, Node.js)
-to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
+<h4 align="center">I am developing a full-featured website using the full stack to modernize and enhance user experience with a friendly, efficient, and contemporary design</h4>
 
 <br>
 
 ## 👨‍💻 Overview
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
+<!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g"> -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47evfw9i62rq8xmjf9lw0eyffvpbcklx380cpr1lno&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
 
 - 🔭 I’m currently working on [My Portfolio](https://developerfaruk.vercel.app)
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [http://www.developerfaruk.com](http://www.developerfaruk.com)
 
-- 💬 Ask me about **React, javaScript, TypeScript, express, MongoDB, PostgresSQL, Node, Prisma, Next.js**
+- 💬 Ask me about **React, javaScript, TypeScript, express, MongoDB, PostgresSQL, Node, Prisma, Next.js, **
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C4KnnJFzZxTOdWpK28dpPBU1pPBgetka/view?usp=sharing](https://drive.google.com/file/d/1f712sf-H0d3PENlWP0m9u_I6SzdE0UhL/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny !!!!!!!!!!!!**
 
@@ -171,6 +169,12 @@ to modernize and enhance user experience with a friendly, efficient, and contemp
 </a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</a>
+<a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Prisma%20ORM&logo=prisma&label=&color=2D3748&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Prisma ORM" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="PostgreSQL" />
 </a>
 </p>
 <br>
