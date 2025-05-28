@@ -7,9 +7,9 @@
 <br>
 
 ## 👨‍💻 Overview
-<!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g"> -->
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47wksx3pb75rwllnzsyzv2q71y2a9s4bxqcrfjjl04&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47evfw9i62rq8xmjf9lw0eyffvpbcklx380cpr1lno&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47evfw9i62rq8xmjf9lw0eyffvpbcklx380cpr1lno&ep=v1_gifs_related&rid=giphy.gif&ct=g"> -->
 
 
 - 🔭 I’m currently working on [My Portfolio](https://developerfaruk.vercel.app)
