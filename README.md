@@ -1,4 +1,4 @@
-![logo](https://github.com/developerFarukk/developerFarukk/blob/main/github-main-banner.gif?raw=true)
+![logo](https://github.com/developerFarukk/developerFarukk/blob/main/github-main-banner.gif)
 <span align="right"> <img width="154" src="https://komarev.com/ghpvc/?username=developerFarukk&label=Profile%20views&color=0e75b6&style=flat" alt="developerfaruk" /> </span> [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://www.developerfaruk.com)](https://www.developerfaruk.com) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/17JW4f5XOPqOjhVqhW5dcJSRkOwx3QwH-/view?usp=sharing)](https://drive.google.com/file/d/17JW4f5XOPqOjhVqhW5dcJSRkOwx3QwH-/view?usp=sharing)
 
   <h2 align="center">Hi 👋, I'm OMAR FARUK</h2>
