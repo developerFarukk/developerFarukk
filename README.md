@@ -185,6 +185,18 @@
 
 <br>
 
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerfarukk&theme=2077" style="width:100%;" alt="GitHub Profile Details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developerfarukk&theme=2077" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developerfarukk&theme=2077" width="48%" />
+  <br/>
+</div>
+
+<br>
+
 ## 🈸 Language Used
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerFarukk&show_icons=true&locale=en&layout=compact&theme=dark" alt="developerfaruk" /></p>
@@ -196,6 +208,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=developerFarukk&theme=onedark&column=8" alt="developerfaruk" />
   </a>
 </p>
+
 
 
 
